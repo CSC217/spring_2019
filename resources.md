@@ -7,7 +7,7 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ##### [Introduction to Probability and Statistics for Engineers and Scientists, Third Edition](http://www.r-5.org/files/books/computers/algo-list/statistics/Sheldon_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)  
 
 
-##### [Think Stats: Exploratory Data Analysis in Python, Second Edition]((http://greenteapress.com/thinkstats2/thinkstats2.pdf)
+##### [Think Stats: Exploratory Data Analysis in Python, Second Edition](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
 ## Software
 

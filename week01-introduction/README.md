@@ -11,7 +11,7 @@ See [here](https://github.com/CSC217/spring_2019/blob/master/week01-introduction
 #### [Introduction to Probability and Statistics](http://www.r-5.org/files/books/computers/algo-list/statistics/Sheldon_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)  
 Chapters 1 and 2.
 
-#### [Think Stats]((http://greenteapress.com/thinkstats2/thinkstats2.pdf)  
+#### [Think Stats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)  
 Chapters 1 and 2.
 
 \* For both of the above readings, Chapter 1 is a general introduction while Chapter 2 will get you prepared for next week.
