@@ -2,6 +2,10 @@
 
 This week will be light on material and will focus on some administrative stuff as well as getting you started in Python.
 
+## Lecture
+
+See [here](https://github.com/CSC217/spring_2019/blob/master/week01-introduction/Week_One_Introduction.pdf) for this week's lecture.
+
 ## Homework
 
 See [here](https://github.com/CSC217/spring_2019/blob/master/week01-introduction/Homework_One.ipynb) for homework. Homework is due February 6th at 6:00 PM sharp. Anything submitted after that will receive a 0.
