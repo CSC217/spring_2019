@@ -9,6 +9,14 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Think Stats: Exploratory Data Analysis in Python, Second Edition](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
+## Statistics
+
+### Descriptive Statistics
+
+##### [Unlearning Descriptive Statistics](http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics)
+
+##### [Summary Statistics - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/summary-stats.ipynb)
+
 ## Software
 
 ### Jupyter Notebook
@@ -27,3 +35,20 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ##### [Numpy Tutorial Part 1 - Introduction to Arrays](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/)
 
 ##### [101 Numpy Excercises for Python](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+
+### Data Visualization
+
+##### [Exploratory Data Analysis - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/eda.ipynb)
+
+##### [Matplotlib Tutorial](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+
+
+##### [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide)
+
+##### [Top 50 Matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python)
+
+##### [Python Graph Gallery](https://python-graph-gallery.com)
+
+### Git
+
+##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
