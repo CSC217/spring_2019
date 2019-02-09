@@ -19,11 +19,11 @@ See [here](https://github.com/CSC217/spring_2019/blob/master/week02-descriptive_
 
 ## Homework
 
-See [here](https://github.com/CSC217/spring_2019/blob/master/week02-descriptive_stats/Homework_Two.pdf) for this week's homework.
+See [here](https://github.com/CSC217/spring_2019/blob/master/week02-descriptive_stats/Homework_Two.ipynb) for this week's homework.
 
 ## Classwork
 
-See [here](https://github.com/CSC217/spring_2019/blob/master/week02-descriptive_stats/Descriptive_Statistics_Class_Workbook.pdf) for this week's classwork.
+See [here](https://github.com/CSC217/spring_2019/blob/master/week02-descriptive_stats/Descriptive_Statistics_Class_Workbook.ipynb) for this week's classwork.
 
 ## Readings
 
