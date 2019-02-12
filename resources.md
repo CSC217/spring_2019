@@ -9,6 +9,21 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Think Stats: Exploratory Data Analysis in Python, Second Edition](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
+#### [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
+
+## Probability
+
+### Counting, Sets, Permutations, Combinations
+
+##### [Counting and Sets](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading1b.pdf)  
+
+##### [Probability: Terminology and Examples](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading2.pdf)  
+
+##### [Application Areas of Combinatorics, Especially Permutations and Combinations](https://pdfs.semanticscholar.org/ffc6/601b91268f6bbfa7426055b38f91eb2d11ea.pdf)  
+
+
+##### [Birthday Problem](https://en.wikipedia.org/wiki/Birthday_problem)
+
 ## Statistics
 
 ### Descriptive Statistics
