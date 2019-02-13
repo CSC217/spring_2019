@@ -34,6 +34,9 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ## Software
 
+### Python  
+##### [Python Developers Survey 2018 Results](https://www.jetbrains.com/research/python-developers-survey-2018)
+
 ### Jupyter Notebook
 
 

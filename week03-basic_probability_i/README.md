@@ -47,3 +47,7 @@ Learning about permutations and combinations may seem theoretical, but it is the
 
 #### [Birthday Problem](https://en.wikipedia.org/wiki/Birthday_problem) *(Optional)*  
 If your family asks you what you learned in this class
+
+#### [Python Developers Survey 2018 Results](https://www.jetbrains.com/research/python-developers-survey-2018) *(Optional)*
+
+See the top current use cases for Python as per a survey of developres.
