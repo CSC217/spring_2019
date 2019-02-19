@@ -9,7 +9,7 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Think Stats: Exploratory Data Analysis in Python, Second Edition](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 
-#### [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
+##### [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
 
 ## Probability
 
@@ -23,6 +23,15 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 
 ##### [Birthday Problem](https://en.wikipedia.org/wiki/Birthday_problem)
+
+### Conditional Probability
+
+##### [Conditional Probability and Bayes' Theorem](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading3.pdf)  
+
+##### [Monty Hall](https://www.youtube.com/watch?v=9vRUxbzJZ9Y)
+
+
+##### [An Intuitive Explanation of Bayes' Theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
 ## Statistics
 
