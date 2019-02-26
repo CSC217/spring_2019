@@ -89,16 +89,16 @@ Students will receive an invite to join a Slack channel for the class, which the
 | 1 | January 30 | Introduction |
 | 2 | February 6 | Descriptive Statistics |
 | 3 | February 13 | Basic Probability I |
-| 4 | February 20 | Basic Probability II |
-| 5 | February 27 | Random Variables and Distributions |
-| 6 | March 6 | The Normal Distribution and Central Limit Theorem |
-| 7 | March 13 | **Midterm**
-| 8 | March 20 | Estimation and Confidence Intervals
-| 9 | March 27 | Hypothesis Testing
-| 10 | April 3 | Relationships Between Variables
-| 11 | April 10 | Regression
-| 12 | April 24 | Regression II
-| 13 | May 1 | TBD: Bayesian Modeling
+| 4 | February 27 | Basic Probability II |
+| 5 | March 6 | Random Variables and Distributions |
+| 6 | March 13 | The Normal Distribution and Central Limit Theorem |
+| 7 | March 20 | **Midterm**
+| 8 | March 27 | Estimation and Confidence Intervals
+| 9 | April 3 | Hypothesis Testing
+| 10 | April 10 | Relationships Between Variables
+| 11 | April 24 | Regression
+| 12 | May 1 | Regression II
+~~| 13 | May 1 | TBD: Bayesian Modeling~~
 | 14 | May 8 | **Project Presentation**
 | 15 | May 22* | **Final Exam**
 

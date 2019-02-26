@@ -10,7 +10,7 @@ If you've downloaded the class repo to your local computer, be sure to go into y
 **February 27**  
 *Project Details Given*  
 
-**March 13**  
+**March 20**  
 *Midterm*
 
 ## Lecture
@@ -41,3 +41,7 @@ This is a helpful review of the material we covered this week.
 Good, short video explaining Monty Hall
 
 #### [An Intuitive Explanation of Bayes' Theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
+
+#### [Data Science is Different Now](https://veekaybee.github.io/2019/02/13/data-science-is-different) *(Optional)*   
+
+Great blog post on how the job requirements and skillsets required to be a data scientist have been changing. Recommended for anyone considering going into data science

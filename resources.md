@@ -79,3 +79,9 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ### Git
 
 ##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+
+## Job & Life Advice
+
+### Becoming a Data Scientist
+
+##### [Data Science is Different Now](https://veekaybee.github.io/2019/02/13/data-science-is-different)
