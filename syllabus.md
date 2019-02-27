@@ -98,7 +98,7 @@ Students will receive an invite to join a Slack channel for the class, which the
 | 10 | April 10 | Relationships Between Variables
 | 11 | April 24 | Regression
 | 12 | May 1 | Regression II
-~~| 13 | May 1 | TBD: Bayesian Modeling~~
+| ~~13~~ | ~~May 1~~ | ~~TBD: Bayesian Modeling~~|
 | 14 | May 8 | **Project Presentation**
 | 15 | May 22* | **Final Exam**
 
