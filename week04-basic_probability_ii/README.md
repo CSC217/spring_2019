@@ -18,11 +18,11 @@ If you've downloaded the class repo to your local computer, be sure to go into y
 
 ## Lecture
 
-See [here](https://github.com/CSC217/spring_2019/blob/master/week04-basic_probability_i/Week_Four_Basic_Probability_II.pdf) for this week's lecture.
+See [here](https://github.com/CSC217/spring_2019/blob/master/week04-basic_probability_ii/Week_Four_Basic_Probability_II.pdf) for this week's lecture.
 
 ## Project
 
-See [here] for details on your project.
+See [here](https://github.com/CSC217/spring_2019/blob/master/project_info.md) for details on your project.
 
 
 ## Homework
