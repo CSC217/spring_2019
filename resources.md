@@ -33,6 +33,16 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [An Intuitive Explanation of Bayes' Theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
+### Random Variables
+
+##### [Discrete Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading4a.pdf)
+
+##### [Common Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+
+##### [Why We Love The CDF And Do Not Like Histograms That Much](https://www.andata.at/en/software-blog-reader/why-we-love-the-cdf-and-do-not-like-histograms-that-much.html)
+
+##### [What Does Randomness Look Like? (Spoiler: Poisson Distribution)](https://www.wired.com/2012/12/what-does-randomness-look-like/)
+
 ## Statistics
 
 ### Descriptive Statistics
@@ -40,6 +50,7 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ##### [Unlearning Descriptive Statistics](http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics)
 
 ##### [Summary Statistics - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/summary-stats.ipynb)
+
 
 ## Software
 
@@ -79,6 +90,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ### Git
 
 ##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+
+##### [Git - Merge Conflicts](https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull)
 
 ## Job & Life Advice
 

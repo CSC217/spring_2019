@@ -45,4 +45,7 @@ Good cheat sheet to remember the different probability distributions and the rel
 #### [Why We Love The CDF And Do Not Like Histograms That Much](https://www.andata.at/en/software-blog-reader/why-we-love-the-cdf-and-do-not-like-histograms-that-much.html)
 Good overview of why the CDF is better for comparing multiple distributions than histograms.
 
+#### [Git - Merge Conflicts](https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull)
+There's a *lot* of resources out there about Git, to the point where it can become overwhelming. The answers here are, in my opinion, the best way to approach merge conflicts in our class.
+
 #### [What Does Randomness Look Like? (Spoiler: Poisson Distribution)](https://www.wired.com/2012/12/what-does-randomness-look-like/)  *(Optional)*  
