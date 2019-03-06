@@ -31,24 +31,15 @@ See [here](https://github.com/CSC217/spring_2019/blob/master/week05-random_varia
 ## Readings
 
 #### [Introduction to Probability and Statistics](http://www.r-5.org/files/books/computers/algo-list/statistics/Sheldon_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)  
-Chapters 4.1 - 4.6, 5.1 - 5.6 (review this week)
+Chapters 4.1 - 4.6, 5.1 - 5.6 (review this week), Chapter 6 (next week)
 
 #### [Think Stats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)  
-Chapters 3 and 4 (for next week).
+Chapters 3 and 4 (review this week), Chapters 5, 6, 14.4 (next week)
 
-#### [Conditional Probability and Bayes' Theorem](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading3.pdf)  
-This is a helpful review of the material we covered this week.
+#### [Common Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+Good cheat sheet to remember the different probability distributions and the relationships between them.
 
-#### [Monty Hall](https://www.youtube.com/watch?v=9vRUxbzJZ9Y)
+#### [Why We Love The CDF And Do Not Like Histograms That Much](https://www.andata.at/en/software-blog-reader/why-we-love-the-cdf-and-do-not-like-histograms-that-much.html)
+Good overview of why the CDF is better for comparing multiple distributions than histograms.
 
-Good, short video explaining Monty Hall.
-
-#### [An Intuitive Explanation of Bayes' Theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
-
-#### [Data Science is Different Now](https://veekaybee.github.io/2019/02/13/data-science-is-different) *(Optional)*   
-
-Great blog post on how the job requirements and skillsets required to be a data scientist have been changing. Recommended for anyone considering going into data science.
-
-#### [A Rant About the State of Statistics in Medical Journals](https://twitter.com/Chris_Auld/status/1099342790826254336)  *(Optional)*  
-
-Brief Twitter thread about whether the finding that auto accidents spike on April 20th is valid. Very useful as a thought starter for what to avoid in your analysis.
+#### [What Does Randomness Look Like? (Spoiler: Poisson Distribution)](https://www.wired.com/2012/12/what-does-randomness-look-like/)  *(Optional)*  
