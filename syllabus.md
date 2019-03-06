@@ -89,6 +89,7 @@ Students will receive an invite to join a Slack channel for the class, which the
 | 1 | January 30 | Introduction |
 | 2 | February 6 | Descriptive Statistics |
 | 3 | February 13 | Basic Probability I |
+| ~~4~~ | ~~February 20~~ | ~~Basic Probability II~~ |
 | 4 | February 27 | Basic Probability II |
 | 5 | March 6 | Random Variables and Distributions |
 | 6 | March 13 | The Normal Distribution and Central Limit Theorem |
