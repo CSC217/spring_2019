@@ -85,3 +85,7 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ### Becoming a Data Scientist
 
 ##### [Data Science is Different Now](https://veekaybee.github.io/2019/02/13/data-science-is-different)
+
+### Real Life Applications
+
+##### [A Rant About the State of Statistics in Medical Journals](https://twitter.com/Chris_Auld/status/1099342790826254336)

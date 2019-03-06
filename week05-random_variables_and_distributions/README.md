@@ -36,6 +36,9 @@ Chapters 4.1 - 4.6, 5.1 - 5.6 (review this week), Chapter 6 (next week)
 #### [Think Stats](http://greenteapress.com/thinkstats2/thinkstats2.pdf)  
 Chapters 3 and 4 (review this week), Chapters 5, 6, 14.4 (next week)
 
+#### [Discrete Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading4a.pdf)
+More background on discrete random variables.
+
 #### [Common Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 Good cheat sheet to remember the different probability distributions and the relationships between them.
 
