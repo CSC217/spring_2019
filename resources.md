@@ -33,7 +33,7 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [An Intuitive Explanation of Bayes' Theorem](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
 
-### Random Variables
+### Random Variables & Distributions
 
 ##### [Discrete Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading4a.pdf)
 
@@ -42,6 +42,12 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ##### [Why We Love The CDF And Do Not Like Histograms That Much](https://www.andata.at/en/software-blog-reader/why-we-love-the-cdf-and-do-not-like-histograms-that-much.html)
 
 ##### [What Does Randomness Look Like? (Spoiler: Poisson Distribution)](https://www.wired.com/2012/12/what-does-randomness-look-like/)
+
+##### [Continuous Random Variables - PDF and CDF](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)
+
+##### [Continuous Distributions](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5c.pdf)
+
+##### [Central Limit Theorem](https://www.methodsconsultants.com/tutorial/the-central-limit-theorem-and-its-implications-for-statistical-inference/)
 
 ## Statistics
 
@@ -87,6 +93,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Python Graph Gallery](https://python-graph-gallery.com)
 
+##### [Visual Vocabulary](https://gramener.github.io/visual-vocabulary-vega)
+
 ### Git
 
 ##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
@@ -98,6 +106,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ### Becoming a Data Scientist
 
 ##### [Data Science is Different Now](https://veekaybee.github.io/2019/02/13/data-science-is-different)
+
+##### [12 Things I Wish I'd Known Before Starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
 
 ### Real Life Applications
 
