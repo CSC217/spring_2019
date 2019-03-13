@@ -19,7 +19,7 @@ See [here](https://github.com/CSC217/spring_2019/blob/master/week06-normal_distr
 
 ## Lecture
 
-See [here](https://github.com/CSC217/spring_2019/blob/master/week06-normal_distribution_central_limit_theorem/Week_Six_Normal_Distribution_And_Central_Limit_Theorem.pdf) for this week's lecture.
+See [here](https://github.com/CSC217/spring_2019/blob/master/week06-normal_distribution_central_limit_theorem/Week_Six_The_Normal_Distribution_and_The_Central_Limit_Theorem.pdf) for this week's lecture.
 
 ## Homework
 
