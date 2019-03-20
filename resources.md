@@ -63,6 +63,9 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ### Python  
 ##### [Python Developers Survey 2018 Results](https://www.jetbrains.com/research/python-developers-survey-2018)
 
+##### [A Landscape Diagram for Python Data](https://community.ibm.com/community/user/datascience/blogs/paco-nathan/2019/03/12/a-landscape-diagram-for-python-data)
+
+
 ### Jupyter Notebook
 
 
@@ -73,6 +76,11 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ##### [Intro to Pandas Data Structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 
 ##### [Easier Data Analysis in Python With Pandas](https://www.dataschool.io/easier-data-analysis-with-pandas/)
+
+##### [Data Cleaning with Pandas](http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/)
+
+
+##### [Merge Data Frames in Python](http://www.datasciencemadesimple.com/join-merge-data-frames-pandas-python/)
 
 ### Numpy
 
