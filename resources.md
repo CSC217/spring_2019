@@ -49,6 +49,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Central Limit Theorem](https://www.methodsconsultants.com/tutorial/the-central-limit-theorem-and-its-implications-for-statistical-inference/)
 
+##### [T-Distribution vs. Normal Distribution](http://mathlets.org/mathlets/t-distribution/)
+
 ## Statistics
 
 ### Descriptive Statistics
@@ -57,6 +59,19 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Summary Statistics - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/summary-stats.ipynb)
 
+### Hypothesis Testing
+
+##### [Introduction to Hypothesis Testing](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading17b.pdf)
+
+##### [More Hypothesis Testing](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading18.pdf)
+
+##### [Scientists Rise Up Against Statistical Significance](https://www.nature.com/articles/d41586-019-00857-9)
+
+##### [Complete Hypothesis Testing Review](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading19.pdf)
+
+##### [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
+
+##### [Running Chi-Square Tests With Die Roll Data in Python](https://towardsdatascience.com/running-chi-square-tests-in-python-with-die-roll-data-b9903817c51b)  
 
 ## Software
 
@@ -103,6 +118,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Visual Vocabulary](https://gramener.github.io/visual-vocabulary-vega)
 
+##### [Mistakes, We've Drawn a Few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
+
 ### Git
 
 ##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
@@ -117,6 +134,10 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [12 Things I Wish I'd Known Before Starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
 
-### Real Life Applications
+### Real-Life Applications
 
 ##### [A Rant About the State of Statistics in Medical Journals](https://twitter.com/Chris_Auld/status/1099342790826254336)
+
+##### [Ten Lessons I Learned While Teaching Myself to Code](https://tim.blog/2019/03/21/learn-to-code)
+
+##### [How I Eat For Free in NYC Using Python, Automation, Artificial Intelligence, and Instagram](https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10)
