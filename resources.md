@@ -59,6 +59,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Summary Statistics - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/summary-stats.ipynb)
 
+##### [Data Transformation](https://medium.com/@TheDataGyan/day-8-data-transformation-skewness-normalization-and-much-more-4c144d370e55)
+
 ### Hypothesis Testing
 
 ##### [Introduction to Hypothesis Testing](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading17b.pdf)
@@ -72,6 +74,10 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ##### [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
 
 ##### [Running Chi-Square Tests With Die Roll Data in Python](https://towardsdatascience.com/running-chi-square-tests-in-python-with-die-roll-data-b9903817c51b)  
+
+### Covariance and Correlation
+
+##### [Covariance and Correlation](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading7b.pdf)
 
 ## Software
 
