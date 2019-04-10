@@ -24,7 +24,7 @@ See [here](https://github.com/CSC217/spring_2019/blob/master/week10-relationship
 
 ## Challenge
 
-See [here](https://github.com/CSC217/spring_2019/blob/master/week10-relationships_between_variables/Challenge.ipynb) for this week's challenge.
+See [here](https://github.com/CSC217/spring_2019/blob/master/week10-relationships_between_variables/Week_10_Challenge.ipynb) for this week's challenge.
 
 ## Homework
 
